@@ -7999,7 +7999,7 @@
         "control-implementations": [
           {
             "uuid": "e30e1ad9-1bfd-4360-99be-a0b53b48788c",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for tektoncd",
             "implemented-requirements": [
               {

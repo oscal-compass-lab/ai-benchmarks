@@ -1951,7 +1951,7 @@
         "control-implementations": [
           {
             "uuid": "1cd95411-87e3-47c0-8dbe-e02bc4f2646c",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for Grafana",
             "implemented-requirements": [
               {

@@ -2203,7 +2203,7 @@
         "control-implementations": [
           {
             "uuid": "a118bea5-a3bc-4884-80ae-c7fbd1931651",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for DVC",
             "implemented-requirements": [
               {

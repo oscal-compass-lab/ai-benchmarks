@@ -7999,7 +7999,7 @@
         "control-implementations": [
           {
             "uuid": "33e2945d-c493-44b7-8d1a-6a78bf4dda6b",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for Hugging-Face-Transformers",
             "implemented-requirements": [
               {

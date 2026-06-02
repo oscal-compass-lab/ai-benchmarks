@@ -7999,7 +7999,7 @@
         "control-implementations": [
           {
             "uuid": "ba5ee5aa-cb67-40ea-9470-0d7e715f6986",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for ONNX-Runtime",
             "implemented-requirements": [
               {
