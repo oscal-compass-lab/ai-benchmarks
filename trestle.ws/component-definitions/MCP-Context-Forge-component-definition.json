@@ -1027,7 +1027,7 @@
         "control-implementations": [
           {
             "uuid": "a13f2740-e248-4fa6-8b34-81d1b5576d7e",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for MCP-Context-Forge",
             "implemented-requirements": [
               {

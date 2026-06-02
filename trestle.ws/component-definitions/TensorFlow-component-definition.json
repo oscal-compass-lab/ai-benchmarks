@@ -1867,7 +1867,7 @@
         "control-implementations": [
           {
             "uuid": "bcbcee2a-c963-4468-9d6a-2ff895c5206f",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for TensorFlow",
             "implemented-requirements": [
               {

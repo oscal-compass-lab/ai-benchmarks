@@ -7999,7 +7999,7 @@
         "control-implementations": [
           {
             "uuid": "d963a2be-7fbd-4a30-be00-a82f25ef2758",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for Apache-Airflow",
             "implemented-requirements": [
               {

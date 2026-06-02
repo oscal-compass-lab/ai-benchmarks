@@ -7999,7 +7999,7 @@
         "control-implementations": [
           {
             "uuid": "3a94ee2e-19a3-4427-b588-7163c79b8965",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for Nemo-Guardrails",
             "implemented-requirements": [
               {

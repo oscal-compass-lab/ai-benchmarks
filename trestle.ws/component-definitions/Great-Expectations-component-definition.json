@@ -1615,7 +1615,7 @@
         "control-implementations": [
           {
             "uuid": "745da4b2-8101-4a61-95db-291e07202eff",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for Great-Expectations",
             "implemented-requirements": [
               {

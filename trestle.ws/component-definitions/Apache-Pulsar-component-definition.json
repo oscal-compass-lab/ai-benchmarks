@@ -7999,7 +7999,7 @@
         "control-implementations": [
           {
             "uuid": "61515143-ba67-4f5c-8bda-84ade37c4aa9",
-            "source": "https://github.ibm.com/compliance-agile-authoring/nist-ai-rmf-catalog/blob/develop/catalogs/AI_RMF/catalog.json",
+            "source": "https://raw.githubusercontent.com/oscal-compass/oscal-content/refs/heads/main/catalogs/nist_ai_rmf_gen_ai/1.0.0/catalog.json",
             "description": "Implementation of NIST AI RMF controls for Apache-Pulsar",
             "implemented-requirements": [
               {
