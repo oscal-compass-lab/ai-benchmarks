@@ -3,7 +3,7 @@
     "uuid": "8066c966-cc24-4e00-8497-83ef9f28feee",
     "metadata": {
       "title": "LangChain AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from LangChain Governance Benchmark"

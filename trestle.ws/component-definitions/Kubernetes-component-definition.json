@@ -3,7 +3,7 @@
     "uuid": "0aed8543-5fc1-42a9-b859-91001a07bcaf",
     "metadata": {
       "title": "Kubernetes AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Kubernetes Governance Benchmark"

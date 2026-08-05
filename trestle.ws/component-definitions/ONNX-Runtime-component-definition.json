@@ -3,7 +3,7 @@
     "uuid": "facbe73d-e57e-45aa-ac2d-c7a919f937b5",
     "metadata": {
       "title": "ONNX-Runtime AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from ONNX-Runtime Governance Benchmark"

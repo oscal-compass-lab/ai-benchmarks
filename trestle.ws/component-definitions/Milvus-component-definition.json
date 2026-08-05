@@ -3,7 +3,7 @@
     "uuid": "6108c3fd-74c5-4209-b1c0-09a2fff5282f",
     "metadata": {
       "title": "Milvus AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Milvus Governance Benchmark"

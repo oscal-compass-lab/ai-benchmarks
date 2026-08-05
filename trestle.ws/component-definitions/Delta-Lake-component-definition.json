@@ -3,7 +3,7 @@
     "uuid": "4b8ea84d-9b7a-4c65-90e6-a475160f0343",
     "metadata": {
       "title": "Delta-Lake AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Delta-Lake Governance Benchmark"

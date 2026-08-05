@@ -3,7 +3,7 @@
     "uuid": "0199d7e3-b043-4e88-b6d4-636a372ceb4b",
     "metadata": {
       "title": "llm-d AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from llm-d Governance Benchmark"

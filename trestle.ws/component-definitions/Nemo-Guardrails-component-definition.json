@@ -3,7 +3,7 @@
     "uuid": "f42438b0-0b48-4f40-bdc3-d3f83a1a5645",
     "metadata": {
       "title": "Nemo-Guardrails AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Nemo-Guardrails Governance Benchmark"

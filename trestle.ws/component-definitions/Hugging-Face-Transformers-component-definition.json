@@ -3,7 +3,7 @@
     "uuid": "4c639ae4-e6d6-4ed2-8328-7cc0848e3bc8",
     "metadata": {
       "title": "Hugging-Face-Transformers AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Hugging-Face-Transformers Governance Benchmark"

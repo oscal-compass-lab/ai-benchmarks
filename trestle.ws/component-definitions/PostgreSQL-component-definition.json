@@ -3,7 +3,7 @@
     "uuid": "bdd43bc2-6b42-45e8-99f1-d5fd3d9097b7",
     "metadata": {
       "title": "PostgreSQL AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from PostgreSQL Governance Benchmark"
