@@ -3,7 +3,7 @@
     "uuid": "40264241-ca42-46b2-8404-b03917a3c58a",
     "metadata": {
       "title": "TensorBoard AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from TensorBoard Governance Benchmark"

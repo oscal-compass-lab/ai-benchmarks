@@ -3,7 +3,7 @@
     "uuid": "5266b51c-cd6d-4f73-89de-622bc63fa2ac",
     "metadata": {
       "title": "vLLM AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:55+0000",
+      "last-modified": "2026-06-01T14:22:55+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from vLLM Governance Benchmark"

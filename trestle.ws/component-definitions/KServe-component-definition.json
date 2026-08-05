@@ -3,7 +3,7 @@
     "uuid": "03c79aa3-e45b-4deb-8baf-5e7b30e71c1b",
     "metadata": {
       "title": "KServe AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from KServe Governance Benchmark"

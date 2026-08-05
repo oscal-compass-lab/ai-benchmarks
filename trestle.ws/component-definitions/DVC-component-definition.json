@@ -3,7 +3,7 @@
     "uuid": "d46f0b38-0063-4d10-bf5b-39fade2d8df4",
     "metadata": {
       "title": "DVC AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from DVC Governance Benchmark"

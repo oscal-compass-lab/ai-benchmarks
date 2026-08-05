@@ -3,7 +3,7 @@
     "uuid": "b49af8bf-1b3a-48bd-9423-c5e7f75bef62",
     "metadata": {
       "title": "AutoGen AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from AutoGen Governance Benchmark"

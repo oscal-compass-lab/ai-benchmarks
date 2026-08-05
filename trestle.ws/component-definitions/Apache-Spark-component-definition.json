@@ -3,7 +3,7 @@
     "uuid": "5417f43c-e1ae-4f87-b3b6-cb914e8d283c",
     "metadata": {
       "title": "Apache-Spark AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Apache-Spark Governance Benchmark"

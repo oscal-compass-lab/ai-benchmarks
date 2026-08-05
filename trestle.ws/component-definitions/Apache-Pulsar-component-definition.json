@@ -3,7 +3,7 @@
     "uuid": "0235849e-b07c-4a06-b198-8c00ef1d6d27",
     "metadata": {
       "title": "Apache-Pulsar AI Governance Component Definition",
-      "last-modified": "2026-06-01T14:22:54+0000",
+      "last-modified": "2026-06-01T14:22:54+00:00",
       "version": "1.0",
       "oscal-version": "1.2.1",
       "remarks": "Component definition derived from Apache-Pulsar Governance Benchmark"
